@@ -6,7 +6,7 @@ const navItems = [
   { href: "#skills",   icon: "⚡", label: "Skills" },
   { href: "#projects", icon: "⊞",  label: "Projects" },
   { href: "#contact",  icon: "✉",  label: "Contact" },
-  { href: "/src/assets/img/DHUSHYANTH S-RESUME.pdf", icon: "📄", label: "Resume", external: true },
+  { href: "/img/DHUSHYANTH S-RESUME.pdf", icon: "📄", label: "Resume", external: true },
 ];
 
 export default function Sidebar({ activeSection, theme, toggleTheme }) {
@@ -31,7 +31,7 @@ export default function Sidebar({ activeSection, theme, toggleTheme }) {
         {/* Profile */}
         <div className="sidebar__profile">
           <div className="sidebar__avatar">
-            <img src="/src/assets/img/dhus.png" alt="Dhushyanth S" />
+            <img src="/img/dhus.png" alt="Dhushyanth Profile" />
           </div>
           <h2 className="sidebar__name">Dhushyanth S</h2>
           <div className="sidebar__socials">

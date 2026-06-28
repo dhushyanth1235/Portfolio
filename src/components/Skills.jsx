@@ -1,17 +1,17 @@
 const skills = [
-  { name: "HTML",       img: "/src/assets/img/html.png" },
-  { name: "CSS",        img: "/src/assets/img/css.png" },
-  { name: "JavaScript", img: "/src/assets/img/js.png" },
-  { name: "Bootstrap",  img: "/src/assets/img/Bootstrap.png" },
-  { name: "React.js",   img: "/src/assets/img/react.png" },
-  { name: "Python",     img: "/src/assets/img/python.png" },
-  { name: "Django",     img: "/src/assets/img/Django.png" },
-  { name: "REST Api",   img: "/src/assets/img/restapi.png" },
-  { name: "MySQL",      img: "/src/assets/img/sql.png" },
-  { name: "AWS",        img: "/src/assets/img/aws.png" },
-  { name: "Git",        img: "/src/assets/img/git.png" },
-  { name: "GitHub",     img: "/src/assets/img/github.png" },
-
+  
+  { name: "HTML",       img: "/img/html.png" },
+  { name: "CSS",        img: "/img/css.png" },
+  { name: "JavaScript", img: "/img/js.png" },
+  { name: "Bootstrap",  img: "/img/Bootstrap.png" },
+  { name: "React.js",   img: "/img/react.png" },
+  { name: "Python",     img: "/img/python.png" },
+  { name: "Django",     img: "/img/Django.png" },
+  { name: "REST Api",   img: "/img/restapi.png" },
+  { name: "MySQL",      img: "/img/sql.png" },
+  { name: "AWS",        img: "/img/aws.png" },
+  { name: "Git",        img: "/img/git.png" },
+  { name: "GitHub",     img: "/img/github.png" },
   
 ];
 

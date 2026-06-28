@@ -4,7 +4,7 @@ const projects = [
   {
     id: 1,
     title: "E-voting Management System",
-    image: "src/assets/img/evotingimg.jpg",
+    image: "/img/evotingimg.jpg",
     tags: ["Python", "Django", "REST APIs", "React.js", "MySQL", "Git & GitHub"],
     description:
       "An E-voting system is a digital platform that allows voters to securely cast and count votes electronically over the internet or electronic machines.",
@@ -23,7 +23,7 @@ const projects = [
   {
     id: 2,
     title: "Online Book Review Platform",
-    image: "src/assets/img/book.webp",
+    image: "/img/book.webp",
     tags: ["HTML", "CSS", "Javascript", "React.js", "Local Storage", "Git & GitHub"],
     description:
       "Online Book Review Platform lets users browse books, read reviews, and give ratings. It helps discover books through user feedback and recommendations.",
@@ -41,7 +41,7 @@ const projects = [
   {
     id: 3,
     title: "Identifying Smart Charging Station",
-    image: "src/assets/img/ev.jpg",
+    image: "/img/ev.jpg",
     tags: ["Java", "XML", "Android"],
     description:
       "An EV smart charging station identification system locates and manages optimal charging points for electric vehicles efficiently.",
@@ -59,7 +59,7 @@ const projects = [
   {
     id: 4,
     title: "Banking Management System",
-    image: "src/assets/img/bank.avif",
+    image: "/img/bank.avif",
     tags: ["Python", "Django", "React.js", "MySQL"],
     description:
       "A Banking Management System is a software application that manages customer accounts, transactions, and financial operations securely and efficiently.",
@@ -77,7 +77,7 @@ const projects = [
   {
     id: 5,
     title: "Spotify Player",
-    image: "src/assets/img/spotify.jpg",
+    image: "/img/spotify.jpg",
     tags: ["HTML", "CSS", "Javascript", "React.js"],
     description:
       "A Spotify player project is a web or app-based music player that streams songs, manages playlists, and provides playback controls using the Spotify API.",
@@ -95,7 +95,7 @@ const projects = [
   {
     id: 6,
     title: "Car Sales Site",
-    image: "src/assets/img/carsale.jpg",
+    image: "/img/carsale.jpg",
     tags: ["HTML", "CSS", "Javascript"],
     description:
       "A car sale website is an online platform where users can browse, compare, and buy or sell new and used cars.",

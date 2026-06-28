@@ -33,7 +33,7 @@ export default function Hero() {
 
   return (
     <section id="home" className="hero section">
-      <img src="/src/assets/img/bg.png" alt="Background" className="hero__bg" />
+      <img src="/img/bg.png" alt="Background" className="hero__bg" />
       <div className="hero__overlay" />
       <div className="hero__content">
         <p className="hero__greeting">Hello, I'm</p>
@@ -44,7 +44,7 @@ export default function Hero() {
         </p>
         <div className="hero__actions">
           <a
-            href="/src/assets/img/DHUSHYANTH S-RESUME.pdf"
+            href="/img/DHUSHYANTH S-RESUME.pdf"
             target="_blank"
             rel="noreferrer"
             className="hero__btn hero__btn--primary"
