@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const roles = ["FullStack Developer", "Software Developer", "Python Developer", ];
+const roles = ["Python FullStack Developer", "Software Developer", "Python Developer", ];
 
 export default function Hero() {
   const [displayText, setDisplayText] = useState("");
